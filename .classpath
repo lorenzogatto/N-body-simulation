@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/ass08.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava/rxjava-1.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava/rxjava-async-util-0.21.0.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava/rxjava-computation-expressions-0.21.0.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava/rxjava-debug-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava/rxjava-file-utils-0.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava/rxjava-guava-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava/rxjava-joins-0.22.0.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava/rxjava-math-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava/rxjava-reactive-streams-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava/rxjava-string-1.1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/gatto/Desktop/PAP/pap1516/lib/akka-actor_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gatto/Desktop/PAP/pap1516/lib/scala-library-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gatto/Desktop/PAP/pap1516/lib/config-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gatto/Desktop/PAP/pap1516/lib/cloning-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gatto/Desktop/PAP/pap1516/lib/objenesis-2.5.1.jar"/>
+	<classpathentry kind="output" path="out/production/pap1516"/>
+</classpath>
